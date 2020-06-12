@@ -1,3 +1,3 @@
-# HOme Assistant Ecosystem Add-ons
+# Home Assistant Ecosystem Add-ons
 
 Add-ons for Home Assistant
